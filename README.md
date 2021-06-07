@@ -1,6 +1,6 @@
 # React Native - Expense Tracker App
 
-## [try it](https://expo.io/@akash97/LCRN03-trip-booking-app-expo)
+## [try it](https://expo.io/@akash97/expense-tracker-app-expo-react-native)
 
 ![Mobile App](https://i3.ytimg.com/vi/uBcpWOQqbAQ/maxresdefault.jpg)
 
