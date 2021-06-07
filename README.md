@@ -2,9 +2,9 @@
 
 ## [try it](https://expo.io/@akash97/LCRN03-trip-booking-app-expo)
 
-![Mobile App](https://i.ibb.co/DQ83JgS/maxresdefault.jpg)
+![Mobile App](https://i3.ytimg.com/vi/uBcpWOQqbAQ/maxresdefault.jpg)
 
-This is a Trip Booking App for Android & iOS. You can navigate between different screens, also can see the destination details.
+This is a Expense Tracker App for Android & iOS. You can navigate between different screens, also can toggle between different expense category.
 
 ### Technologies Used
 
@@ -14,4 +14,4 @@ React Native Navigation
 
 ## Design Credit:
 
-[Reiza on Dribbble](https://dribbble.com/shots/13988973-Digitalz-Ticket).
+[Anastasiia Naumets on Dribbble](https://dribbble.com/shots/6037420-Expense-Tracker-App).
